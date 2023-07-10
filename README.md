@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sky2626
-- 👀 I’m interested in UI and UX, python projects and python machine learning.
+- 👀 I’m interested in HTML, CSS, python, javascript & C projects 
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on UI AND UX, python projects, and machine learning
+- 💞️ I’m looking to collaborate on HTML, CSS, python, javascript & C projects 
 - 📫 How to reach me +233546383716, alhassansalu1@gmail.com
 
 <!---
