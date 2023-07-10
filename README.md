@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @sky2626
-- 👀 I’m interested in HTML, CSS, python, javascript & C projects 
+- 👋 Hi, I’m @
+- ALX full-stack software engineer 
+- 👀 I’m interested in HTML, CSS, python, javascript & C projects.
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on HTML, CSS, python, javascript & C projects 
+- 💞️ I’m looking to collaborate on HTML, CSS, python, javascript & C projects. 
 - 📫 How to reach me +233546383716, alhassansalu1@gmail.com
 
 <!---
