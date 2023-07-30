@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @
-- ALX full-stack software engineer 
+-<h1> ALX full-stack software engineer </h1>
 - 👀 I’m interested in HTML, CSS, python, javascript & C projects.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on HTML, CSS, python, javascript & C projects. 
