@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @
--<h1> ALX full-stack software engineer </h1>
+- 👋 Hi, I am <strong>Salu Alhassan</strong> ’m @sky262
+-<h1>An ALX full-stack software engineering student </h1>
 - 👀 I’m interested in HTML, CSS, python, javascript & C projects.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on HTML, CSS, python, javascript & C projects. 
