@@ -1,4 +1,4 @@
-- 👋 Hi, I am <strong>Salu Alhassan</strong> ’ @sky262
+- 👋 Hi, I am <strong>Salu Alhassan</strong> ’ @sky2626
 -<h1>An ALX full-stack software engineering student </h1>
 - 👀 I’m interested in 
 - HTML
