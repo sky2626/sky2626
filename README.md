@@ -5,6 +5,7 @@
 - CSS
 - Python
 - Javascript
+- React
 - C
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on HTML, CSS, python, javascript & C projects. 
