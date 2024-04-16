@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm <strong>Salu Alhassan</strong> ’ @sky2626 
 
-![Banner Image](https://drive.google.com/file/d/1fhSpOztszY3kbeHhfHENJrgBtFI8I2Yx/view?usp=drive_link)
+![Banner Image](https://drive.google.com/file/d/1fhSpOztszY3kbeHhfHENJrgBtFI8I2Yx/view?usp=sharing)
 
 ## About Me 🚀
 
