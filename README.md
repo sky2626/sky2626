@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm <strong>Salu Alhassan</strong> ’ @sky2626 
 
-![Banner Image](https://unsplash.com/photos/a-close-up-of-a-blue-and-black-marble-wgtTcz8R18M)
+![github](https://github.com/sky2626/brave-blog/assets/64420369/c5c4afa0-2186-4d39-86b4-350c577d2248)
 
 ## About Me 🚀
 
