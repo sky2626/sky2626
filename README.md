@@ -4,11 +4,11 @@
 
 ## About Me 🚀
 
-I'm a passionate **Front-end Role** with experience in **React, Vue, node, next, and nuxt**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Full-Stack Developer** with experience in **React, Vue, node, next, and nuxt**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Docker**
 - 🔭 Working on: **Semades**
-- 🌍 Languages: **Pyhton, Javascript, C and English**
+- 🌍 Languages: **Python, Javascript, C and English**
 - 📫 How to reach me: **+233546383716, alhassansalu1@gmail.com**
 - ⚡ Fun fact: **like taking pictures and exploring nature**
 
@@ -67,7 +67,7 @@ I'm a passionate **Front-end Role** with experience in **React, Vue, node, next,
 ## Get in Touch 📬
 
 - **Personal Website / Blog**(your_website_or_blog_link)
-- **LinkedIn**(https://www.linkedin.com/in/salu-alhassan-7112841b1/)
-- **Twitter / X**(https://twitter.com/AlhassanSalu3)
+- **LinkedIn :** (https://www.linkedin.com/in/salu-alhassan-7112841b1/)
+- **Twitter / X :** (https://twitter.com/AlhassanSalu3)
 
 
