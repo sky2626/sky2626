@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm <strong>Salu Alhassan</strong> ’ @sky2626 
 
-![Banner Image](https://drive.google.com/file/d/1fhSpOztszY3kbeHhfHENJrgBtFI8I2Yx/view?usp=sharing)
+![Banner Image](https://unsplash.com/photos/a-close-up-of-a-blue-and-black-marble-wgtTcz8R18M)
 
 ## About Me 🚀
 
@@ -66,8 +66,8 @@ I'm a passionate **Front-end Role** with experience in **React, Vue, node, next,
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter / X]**(https://twitter.com/AlhassanSalu3)
+- **Personal Website / Blog**(your_website_or_blog_link)
+- **LinkedIn**(https://www.linkedin.com/in/salu-alhassan-7112841b1/)
+- **Twitter / X**(https://twitter.com/AlhassanSalu3)
 
 
