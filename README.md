@@ -1,16 +1,16 @@
-# 👋 Hi there, I'm [<strong>Salu Alhassan</strong> ’ @sky2626 
+# 👋 Hi there, I'm <strong>Salu Alhassan</strong> ’ @sky2626 
 
 ![Banner Image](https://drive.google.com/file/d/1fhSpOztszY3kbeHhfHENJrgBtFI8I2Yx/view?usp=drive_link)
 
 ## About Me 🚀
 
-I'm a passionate **[Front-end Role]** with experience in **[React, Vue, node, next, and nuxt]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Front-end Role** with experience in **React, Vue, node, next, and nuxt**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[docker]**
-- 🔭 Working on: **[Semades]**
-- 🌍 Languages: **[Pyhton, Javascript, C and English]**
-- 📫 How to reach me: **[+233546383716, alhassansalu1@gmail.com]**
-- ⚡ Fun fact: **[like taking pictures and exploring nature]**
+- 🌱 Currently learning: **Docker**
+- 🔭 Working on: **Semades**
+- 🌍 Languages: **Pyhton, Javascript, C and English**
+- 📫 How to reach me: **+233546383716, alhassansalu1@gmail.com**
+- ⚡ Fun fact: **like taking pictures and exploring nature**
 
 ## My Skills 🧠
 ### Software Development
@@ -68,6 +68,6 @@ I'm a passionate **[Front-end Role]** with experience in **[React, Vue, node, ne
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Twitter / X]**(https://twitter.com/AlhassanSalu3)
 
 
