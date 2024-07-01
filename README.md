@@ -65,7 +65,7 @@ I'm a passionate **Full-Stack Developer** with experience in **React, Vue, node,
 
 ## Get in Touch 📬
 
-- **Personal Website / Blog**(your_website_or_blog_link)
+- **Personal Website**(https://maguy.netlify.app/)
 - **LinkedIn :** (https://www.linkedin.com/in/salu-alhassan-7112841b1/)
 - **Twitter / X :** (https://twitter.com/AlhassanSalu3)
 
