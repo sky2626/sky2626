@@ -6,8 +6,8 @@
 
 I'm a passionate **Full-Stack Developer** with experience in **React, Vue, node, next, and nuxt**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Docker**
-- 🔭 Working on: **Semades**
+- 🌱 Currently learning: **Machine Learning**
+- 🔭 Working on: **git clone**
 - 🌍 Languages: **Python, Javascript, C and English**
 - 📫 How to reach me: **+233546383716, alhassansalu1@gmail.com**
 - ⚡ Fun fact: **like taking pictures and exploring nature**
