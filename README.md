@@ -70,3 +70,6 @@ I'm a passionate **Full-Stack Developer** with experience in **React, Vue, node,
 - **Twitter / X :** (https://twitter.com/AlhassanSalu3)
 
 
+### Support Me
+
+<span style="display: inline-block; list-style: none;"><a href="https://www.buymeacoffee.com/maguy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></span>
