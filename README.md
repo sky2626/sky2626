@@ -53,8 +53,6 @@ I'm a passionate **Full-Stack Developer** with experience in **React, Vue, node,
 
 ### [ContractFlow – Contract Automation Platform](https://contractflow.live/)
 
-![ContractFlow Screenshot](project_1_screenshot_url)
-
 Cloud-based enterprise contract automation and workflow management platform designed to streamline contract lifecycle processes, approval workflows, e-signatures, and secure document management.
 
 #### Contributions
