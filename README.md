@@ -51,18 +51,50 @@ I'm a passionate **Full-Stack Developer** with experience in **React, Vue, node,
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [ContractFlow – Contract Automation Platform](https://contractflow.live/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![ContractFlow Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+Cloud-based enterprise contract automation and workflow management platform designed to streamline contract lifecycle processes, approval workflows, e-signatures, and secure document management.
 
-### [Project 2 Title](project_2_link)
+#### Contributions
+- Led the system architecture and technical development of the platform as Technical Lead.
+- Designed scalable RESTful APIs and backend services using Django.
+- Built responsive frontend applications using React, Next.js, Vue.js, and Tailwind CSS.
+- Implemented Docker containerization, Kubernetes orchestration, and CI/CD pipelines for scalable cloud deployments.
+- Integrated AI-powered workflow automation and optimized PostgreSQL/MariaDB database systems for performance and reliability.
 
-![Project 2 Screenshot](project_2_screenshot_url)
+**Tech Stack:** Django, React, Next.js, Vue.js, Tailwind CSS, Docker, Kubernetes, PostgreSQL, MariaDB
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+---
 
+### [NTERCO – Community & Digital Networking Platform](https://nterco.com/)
+
+Scalable digital networking platform focused on community engagement, communication, and relationship management for schools, businesses, and organizations.
+
+#### Contributions
+- Led frontend and backend engineering efforts for scalable cloud-ready applications.
+- Designed backend services and authentication systems using Django and REST APIs.
+- Developed high-performance frontend interfaces using React, Next.js, Vue.js, and Tailwind CSS.
+- Implemented Docker-based deployment workflows and Kubernetes infrastructure for scalability and reliability.
+- Improved system performance, maintainability, and deployment efficiency through CI/CD automation.
+
+**Tech Stack:** Django, React, Next.js, Vue.js, Tailwind CSS, Docker, Kubernetes, PostgreSQL
+
+---
+
+### [ClaaGreg – Lottery Registration & Verification System](https://claagreg.com/)
+
+Secure registration and verification platform for lottery operators and agents, designed to support compliance, operational transparency, and digital verification workflows.
+
+#### Contributions
+- Architected and led the development of scalable backend services and verification systems.
+- Implemented QR verification, OTP authentication, and role-based access control workflows.
+- Developed responsive frontend applications optimized for usability and accessibility.
+- Designed secure infrastructure and deployment workflows using Docker and Kubernetes.
+- Optimized database systems for secure transaction processing and high availability.
+
+**Tech Stack:** Django, React, Next.js, Tailwind CSS, Docker, Kubernetes, PostgreSQL, MariaDB
 ## Get in Touch 📬
 
 - **Personal Website**(https://maguy.netlify.app/)
