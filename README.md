@@ -165,9 +165,6 @@ I'm currently expanding my expertise in:
 🌐 **Portfolio**  
 https://maguy.netlify.app/
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/salu-alhassan-7112841b1/
-
 🐙 **GitHub**  
 https://github.com/sky2626
 
