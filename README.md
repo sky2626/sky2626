@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm <strong>Salu Alhassan</strong> (@sky2626)
-# 👋 Hi there, I'm <strong>Salu Alhassan</strong> (@sky2626)
 
 ![github](https://github.com/sky2626/brave-blog/assets/64420369/c5c4afa0-2186-4d39-86b4-350c577d2248)
 
